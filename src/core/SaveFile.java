@@ -18,7 +18,7 @@ public class SaveFile {
                 StdDraw.setPenColor(Color.WHITE);
                 Font titleFont = new Font("Monospaced", Font.BOLD, 30);
                 StdDraw.setFont(titleFont);
-                StdDraw.text(WIDTH / 2.0, HEIGHT * 0.8, "PROCEDURAL TILEWORLD ADVENTURE");
+                StdDraw.text(WIDTH / 2.0, HEIGHT * 0.8, "PAC-MAN TILEWORLD");
                 Font promptFont = new Font("Monospaced", Font.BOLD, 20);
                 StdDraw.setFont(promptFont);
                 if(i != -1){

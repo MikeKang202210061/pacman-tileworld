@@ -1,4 +1,4 @@
-# Procedural Tileworld Adventure
+# Pac-Man Tileworld
 
 A Pac-Man-inspired exploration game set in a procedurally generated tile world. Each seeded world contains connected rooms, corridors, collectible coins, and persistent game state.
 

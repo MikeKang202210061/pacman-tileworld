@@ -24,7 +24,7 @@ public class Main {
             StdDraw.setPenColor(Color.WHITE);
             Font titleFont = new Font("Monospaced", Font.BOLD, 30);
             StdDraw.setFont(titleFont);
-            StdDraw.text(WIDTH / 2.0, HEIGHT * 0.8, "PROCEDURAL TILEWORLD ADVENTURE");
+            StdDraw.text(WIDTH / 2.0, HEIGHT * 0.8, "PAC-MAN TILEWORLD");
             Font optionFont = new Font("Monospaced", Font.BOLD, 20);
             StdDraw.setFont(optionFont);
 
@@ -56,7 +56,7 @@ public class Main {
             StdDraw.setPenColor(Color.WHITE);
             Font titleFont = new Font("Monospaced", Font.BOLD, 30);
             StdDraw.setFont(titleFont);
-            StdDraw.text(WIDTH / 2.0, HEIGHT * 0.8, "PROCEDURAL TILEWORLD ADVENTURE");
+            StdDraw.text(WIDTH / 2.0, HEIGHT * 0.8, "PAC-MAN TILEWORLD");
             Font promptFont = new Font("Monospaced", Font.BOLD, 20);
             StdDraw.setFont(promptFont);
             StdDraw.text(WIDTH / 2.0, HEIGHT * 0.45, "Enter seed followed by S");
