@@ -1,0 +1,8 @@
+out/
+production/
+*.class
+.idea/
+.vscode/
+lastGameMemory.txt
+name.txt
+.DS_Store
